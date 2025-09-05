@@ -1,0 +1,85 @@
+Atividade 1 python
+#1 Realiza a leitura de 2 floatse imprime as seguintes operações: soma, subtração, multiplicação, divisão e resto da divisão.
+
+numero1 = float(input("Digite o valor do numero: "))
+numero2 = float(input("Digite o valor do numero: "))
+
+soma = numero1 + numero2
+subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
+divisao = numero1 / numero2
+restoSoma = numero1 % numero2
+
+
+print("A soma é", soma)
+print("A subtracao é", subtracao)
+
+
+#2 Realiza a leitura de 1 inte imprime o seu antecessor e o seu sucessor.
+
+numero = int(input("Digite o valor do numero: "))
+
+antecessor = numero - 1
+sucessor = numero + 1
+
+print("O Sucessor de",numero,"é",sucessor)
+print("O antecessor de",numero,"é",antecessor)
+
+
+#3 Realiza a leitura de 1 inte imprime o dobro,triploe metade do valor lido.
+
+numero = int(input("Digite o valor do numero: "))
+
+dobro = numero * 2
+triplo = numero * 3
+metade = numero / 2
+
+print("O dobro é", dobro)
+print("O triplo é", triplo)
+print("A metade é", metade)
+
+
+#4 Realiza a leitura de 3 floatse imprime a média aritmética.
+
+numero1 = float(input("Digite o valor do numero: "))
+numero2 = float(input("Digite o valor do numero: "))
+numero3 = float(input("Digite o valor do numero: "))
+
+media =(numero1+numero2+numero3)/3
+
+print("A media é", media)
+
+#5 Realiza a leitura de 1 floatreferente ao valor de um produto e imprime o valor com descontos de 10%, 20% e 50%.
+
+valorProduto = float(input("Digite o valor do produto: "))
+
+valorProdutoCom10Porcento = valorProduto * 0.9
+valorProdutoCom20Porcento = valorProduto * 0.8
+valorProdutoCom50Porcento = valorProduto * 0.5
+
+print("O valor com 10% é",valorProdutoCom10Porcento)
+print("O valor com 20% é",valorProdutoCom20Porcento)
+print("O valor com 50% é",valorProdutoCom50Porcento)
+
+
+#6 Realiza a leitura de 1 floatreferente ao salário do cidadão e apresenta o salário com reajuste de 10% da inflação.
+
+salario = float(input("Digite o valor do salário: "))
+
+salarioComReajuste = salario * 1.1
+
+print("O seu salario com reajuste é", salarioComReajuste)
+
+
+
+#7 Realiza a leitura de 1 inte apresenta se ele é par ou ímpar.
+
+numero = int(input("Digite o valor do número: "))
+
+if numero % 2 == 0:
+	print("É par!")
+else:
+	print("É impar!")
+
+
+
