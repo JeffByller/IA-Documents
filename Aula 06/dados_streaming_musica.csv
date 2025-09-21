@@ -1,0 +1,102 @@
+id_usuario,idade,genero,plano,tempo_uso_diario_min,musicas_ouvidas_dia,genero_favorito,dispositivo,regiao,gasto_mensal,avaliacao_app,tempo_cadastro_meses,pula_musicas_dia,usa_offline,compartilha_playlists
+1,23,F,Premium,180,45,Pop,Smartphone,Sudeste,19.90,4.5,12,8,Sim,Sim
+2,34,M,Gratuito,90,22,Rock,Desktop,Sul,0.00,3.8,24,15,Não,Não
+3,19,F,Premium,240,60,Pop,Smartphone,Nordeste,19.90,4.7,6,5,Sim,Sim
+4,28,M,Familiar,150,38,Hip Hop,Tablet,Sudeste,29.90,4.2,18,12,Sim,Não
+5,45,F,Gratuito,60,15,MPB,Desktop,Centro-Oeste,0.00,3.5,36,20,Não,Não
+6,22,M,Premium,200,50,Eletrônica,Smartphone,Sul,19.90,4.6,8,6,Sim,Sim
+7,31,F,Familiar,120,30,Sertanejo,Smart TV,Nordeste,29.90,4.1,15,10,Sim,Não
+8,26,M,Premium,220,55,Rock,Smartphone,Sudeste,19.90,4.8,10,4,Sim,Sim
+9,38,F,Gratuito,75,18,MPB,Desktop,Norte,0.00,3.2,48,25,Não,Não
+10,20,M,Premium,260,65,Hip Hop,Smartphone,Sul,19.90,4.9,4,3,Sim,Sim
+11,29,F,Familiar,140,35,Pop,Tablet,Centro-Oeste,29.90,4.3,20,9,Sim,Não
+12,42,M,Gratuito,50,12,Sertanejo,Desktop,Nordeste,0.00,3.0,60,30,Não,Não
+13,25,F,Premium,190,48,Eletrônica,Smartphone,Sudeste,19.90,4.4,14,7,Sim,Sim
+14,33,M,Premium,170,42,Rock,Smart TV,Sul,19.90,4.1,16,11,Sim,Não
+15,21,F,Gratuito,100,25,Pop,Smartphone,Norte,0.00,3.9,8,18,Não,Sim
+16,36,M,Familiar,130,32,Hip Hop,Tablet,Sudeste,29.90,4.0,22,13,Sim,Não
+17,27,F,Premium,210,52,MPB,Smartphone,Centro-Oeste,19.90,4.7,12,5,Sim,Sim
+18,40,M,Gratuito,70,17,Sertanejo,Desktop,Nordeste,0.00,3.4,42,22,Não,Não
+19,24,F,Premium,230,58,Eletrônica,Smartphone,Sul,19.90,4.8,9,4,Sim,Sim
+20,32,M,Familiar,160,40,Rock,Smart TV,Sudeste,29.90,4.2,19,8,Sim,Não
+21,18,F,Gratuito,110,28,Pop,Smartphone,Norte,0.00,4.0,3,16,Não,Sim
+22,35,M,Premium,180,45,Hip Hop,Desktop,Centro-Oeste,19.90,4.3,17,10,Sim,Não
+23,30,F,Premium,200,50,MPB,Tablet,Sul,19.90,4.6,13,6,Sim,Sim
+24,44,M,Gratuito,65,16,Sertanejo,Desktop,Nordeste,0.00,3.1,54,28,Não,Não
+25,26,F,Familiar,145,36,Eletrônica,Smartphone,Sudeste,29.90,4.4,11,9,Sim,Não
+26,39,M,Premium,175,44,Rock,Smart TV,Sul,19.90,4.1,21,12,Sim,Não
+27,22,F,Premium,250,62,Pop,Smartphone,Norte,19.90,4.9,7,3,Sim,Sim
+28,37,M,Gratuito,80,20,Hip Hop,Desktop,Centro-Oeste,0.00,3.6,30,24,Não,Não
+29,28,F,Familiar,135,34,MPB,Tablet,Nordeste,29.90,4.2,16,11,Sim,Não
+30,41,M,Premium,165,41,Sertanejo,Smartphone,Sudeste,19.90,4.0,25,14,Sim,Não
+31,24,F,Gratuito,95,24,Eletrônica,Smartphone,Sul,0.00,3.7,12,19,Não,Sim
+32,33,M,Premium,185,46,Rock,Desktop,Norte,19.90,4.5,18,8,Sim,Não
+33,19,F,Premium,270,68,Pop,Smartphone,Centro-Oeste,19.90,5.0,5,2,Sim,Sim
+34,46,M,Gratuito,55,14,MPB,Desktop,Nordeste,0.00,2.9,66,32,Não,Não
+35,27,F,Familiar,155,39,Hip Hop,Smart TV,Sudeste,29.90,4.3,14,10,Sim,Não
+36,31,M,Premium,195,49,Eletrônica,Smartphone,Sul,19.90,4.7,15,5,Sim,Sim
+37,23,F,Gratuito,105,26,Sertanejo,Tablet,Norte,0.00,3.8,9,17,Não,Sim
+38,38,M,Familiar,125,31,Rock,Desktop,Centro-Oeste,29.90,4.1,23,13,Sim,Não
+39,25,F,Premium,215,54,Pop,Smartphone,Nordeste,19.90,4.8,11,4,Sim,Sim
+40,43,M,Premium,170,42,MPB,Smart TV,Sudeste,19.90,4.2,28,9,Sim,Não
+41,20,F,Gratuito,115,29,Hip Hop,Smartphone,Sul,0.00,4.1,6,15,Não,Sim
+42,34,M,Premium,180,45,Eletrônica,Desktop,Norte,19.90,4.4,20,7,Sim,Não
+43,29,F,Familiar,140,35,Sertanejo,Tablet,Centro-Oeste,29.90,4.0,17,12,Sim,Não
+44,47,M,Gratuito,60,15,Rock,Desktop,Nordeste,0.00,3.3,72,26,Não,Não
+45,26,F,Premium,225,56,Pop,Smartphone,Sudeste,19.90,4.9,10,3,Sim,Sim
+46,32,M,Premium,190,47,MPB,Smart TV,Sul,19.90,4.3,16,8,Sim,Não
+47,21,F,Gratuito,100,25,Hip Hop,Smartphone,Norte,0.00,3.9,7,18,Não,Sim
+48,36,M,Familiar,150,37,Eletrônica,Desktop,Centro-Oeste,29.90,4.2,21,11,Sim,Não
+49,28,F,Premium,205,51,Sertanejo,Tablet,Nordeste,19.90,4.6,13,6,Sim,Sim
+50,40,M,Gratuito,75,19,Rock,Desktop,Sudeste,0.00,3.4,45,23,Não,Não
+51,24,F,Premium,240,60,Pop,Smartphone,Sul,19.90,4.8,8,4,Sim,Sim
+52,35,M,Familiar,160,40,MPB,Smart TV,Norte,29.90,4.1,19,10,Sim,Não
+53,22,F,Gratuito,90,22,Hip Hop,Smartphone,Centro-Oeste,0.00,3.6,11,20,Não,Sim
+54,39,M,Premium,175,44,Eletrônica,Desktop,Nordeste,19.90,4.5,22,9,Sim,Não
+55,30,F,Premium,220,55,Sertanejo,Tablet,Sudeste,19.90,4.7,14,5,Sim,Sim
+56,45,M,Gratuito,65,16,Rock,Desktop,Sul,0.00,3.2,58,29,Não,Não
+57,27,F,Familiar,145,36,Pop,Smartphone,Norte,29.90,4.4,12,8,Sim,Não
+58,33,M,Premium,185,46,MPB,Smart TV,Centro-Oeste,19.90,4.2,17,7,Sim,Não
+59,19,F,Premium,260,65,Hip Hop,Smartphone,Nordeste,19.90,5.0,4,2,Sim,Sim
+60,41,M,Gratuito,70,17,Eletrônica,Desktop,Sudeste,0.00,3.1,50,27,Não,Não
+61,25,F,Premium,200,50,Sertanejo,Tablet,Sul,19.90,4.6,9,6,Sim,Sim
+62,37,M,Familiar,135,34,Rock,Desktop,Norte,29.90,4.0,24,14,Sim,Não
+63,23,F,Gratuito,110,27,Pop,Smartphone,Centro-Oeste,0.00,3.8,10,16,Não,Sim
+64,31,M,Premium,190,48,MPB,Smart TV,Nordeste,19.90,4.3,15,8,Sim,Não
+65,28,F,Premium,230,58,Hip Hop,Smartphone,Sudeste,19.90,4.9,11,3,Sim,Sim
+66,44,M,Gratuito,55,14,Eletrônica,Desktop,Sul,0.00,2.8,62,31,Não,Não
+67,26,F,Familiar,155,39,Sertanejo,Tablet,Norte,29.90,4.2,13,10,Sim,Não
+68,38,M,Premium,180,45,Rock,Desktop,Centro-Oeste,19.90,4.4,20,7,Sim,Não
+69,21,F,Premium,250,62,Pop,Smartphone,Nordeste,19.90,4.8,6,4,Sim,Sim
+70,42,M,Gratuito,80,20,MPB,Desktop,Sudeste,0.00,3.5,40,22,Não,Não
+71,29,F,Premium,210,52,Hip Hop,Smart TV,Sul,19.90,4.7,12,5,Sim,Sim
+72,34,M,Familiar,140,35,Eletrônica,Tablet,Norte,29.90,4.1,18,12,Sim,Não
+73,18,F,Gratuito,120,30,Sertanejo,Smartphone,Centro-Oeste,0.00,4.0,5,14,Não,Sim
+74,46,M,Premium,170,42,Rock,Desktop,Nordeste,19.90,4.2,26,9,Sim,Não
+75,24,F,Premium,235,59,Pop,Smartphone,Sudeste,19.90,4.9,8,3,Sim,Sim
+76,36,M,Gratuito,85,21,MPB,Desktop,Sul,0.00,3.3,35,25,Não,Não
+77,30,F,Familiar,150,37,Hip Hop,Smart TV,Norte,29.90,4.3,16,11,Sim,Não
+78,32,M,Premium,195,49,Eletrônica,Tablet,Centro-Oeste,19.90,4.6,17,6,Sim,Sim
+79,20,F,Gratuito,105,26,Sertanejo,Smartphone,Nordeste,0.00,3.7,8,18,Não,Sim
+80,43,M,Premium,165,41,Rock,Desktop,Sudeste,19.90,4.1,29,10,Sim,Não
+81,27,F,Premium,220,55,Pop,Smartphone,Sul,19.90,4.8,10,4,Sim,Sim
+82,39,M,Familiar,130,32,MPB,Smart TV,Norte,29.90,4.0,22,13,Sim,Não
+83,22,F,Gratuito,95,24,Hip Hop,Tablet,Centro-Oeste,0.00,3.6,9,19,Não,Sim
+84,35,M,Premium,185,46,Eletrônica,Desktop,Nordeste,19.90,4.5,19,8,Sim,Não
+85,31,F,Premium,215,54,Sertanejo,Smartphone,Sudeste,19.90,4.7,14,5,Sim,Sim
+86,48,M,Gratuito,60,15,Rock,Desktop,Sul,0.00,3.0,68,30,Não,Não
+87,25,F,Familiar,145,36,Pop,Smart TV,Norte,29.90,4.4,11,9,Sim,Não
+88,33,M,Premium,190,47,MPB,Tablet,Centro-Oeste,19.90,4.3,16,7,Sim,Não
+89,19,F,Premium,265,66,Hip Hop,Smartphone,Nordeste,19.90,5.0,3,1,Sim,Sim
+90,41,M,Gratuito,75,18,Eletrônica,Desktop,Sudeste,0.00,3.2,47,24,Não,Não
+91,28,F,Premium,205,51,Sertanejo,Smartphone,Sul,19.90,4.6,12,6,Sim,Sim
+92,37,M,Familiar,155,39,Rock,Smart TV,Norte,29.90,4.2,21,11,Sim,Não
+93,23,F,Gratuito,100,25,Pop,Tablet,Centro-Oeste,0.00,3.8,7,17,Não,Sim
+94,40,M,Premium,175,44,MPB,Desktop,Nordeste,19.90,4.1,25,9,Sim,Não
+95,26,F,Premium,225,56,Hip Hop,Smartphone,Sudeste,19.90,4.9,9,3,Sim,Sim
+96,44,M,Gratuito,65,16,Eletrônica,Desktop,Sul,0.00,3.1,55,28,Não,Não
+97,29,F,Familiar,140,35,Sertanejo,Smart TV,Norte,29.90,4.3,15,10,Sim,Não
+98,34,M,Premium,180,45,Rock,Tablet,Centro-Oeste,19.90,4.4,18,8,Sim,Não
+99,21,F,Premium,245,61,Pop,Smartphone,Nordeste,19.90,4.8,5,4,Sim,Sim
+100,42,M,Gratuito,70,17,MPB,Desktop,Sudeste,0.00,3.4,44,26,Não,Não
+

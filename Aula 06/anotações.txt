@@ -1,0 +1,34 @@
+Configurar o Python Interpreter no PyCharm
+
+Vá em File > Settings > Project: IA > Python Interpreter.
+
+Clique em Add Interpreter → escolha Virtualenv, python ou conda
+Instalar dependências básicas para Jupyter Notebook:
+Abra o Terminal do PyCharm e execute:
+py -m pip install --upgrade pip
+py -m pip install notebook jupyter ipykernel matplotlib pandas numpy
+
+
+
+conda create -n ia python=3.11
+conda activate ia
+conda install jupyter numpy pandas matplotlib
+
+
+
+
+
+Até a versão 3.8 do Matplotlib, o parâmetro do boxplot() se chamava labels.
+A partir da 3.9, ele foi renomeado para tick_labels.
+O aviso (MatplotlibDeprecationWarning) está dizendo que em versões futuras (3.11+), labels vai parar de funcionar.
+
+Basta trocar labels por tick_labels:
+
+bp = ax3.boxplot(dados_box, tick_labels=df['plano'].unique(), patch_artist=True)
+
+
+Esconder esses avisos de depreciação e deixar o notebook mais limpo, pode usar:
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
+ou de forma mais ampla:
+warnings.filterwarnings("ignore")
