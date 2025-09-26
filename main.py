@@ -76,7 +76,7 @@ def registrar(tipo, lista):
     opc = input("Gostaria de avaliar o sistema? (S/N): ").strip().lower()
     if opc == "s":
         fb = input("Deixe seu feedback: ")
-        print("Obrigado pela contribuição! 🙏")
+        print("Obrigado pela contribuição!")
 
 # ----------------------------
 # Funções de Listagem
@@ -156,3 +156,4 @@ def menu():
 # Início do Programa
 # ----------------------------
 menu()
+
